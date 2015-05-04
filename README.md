@@ -88,8 +88,8 @@ https://github.com/IdoTene/Xamarin-Freshdesk-Android/blob/master/mobihelp_sdk_an
   
             var config = new MobihelpConfig(
                 "http://your-domain.freshdesk.com",
-            "m1-1-8f852b32ab9ee75d834f1f9c576e260f",
-            "fbddf783378ddfe8fbaf9a9aceb6c1760cc0f704");
+            "m1-1-*************************",
+            "*******************************");
 
             Mobihelp.Init(this, config);
 
